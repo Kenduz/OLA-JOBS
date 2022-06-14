@@ -1,0 +1,62 @@
+nav{
+    background-color: pink;
+    color: white;
+    height: 25px;
+}
+nav label{
+    color: white;
+    margin-left: 15px;
+    margin-right: 20%;
+    font-size: 22px;
+    text-transform: uppercase;
+    background-color: black;
+
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    margin-right: 15px;
+}
+b{
+    color: red;
+}
+body{
+    background: darkred;
+}
+h1{
+    font-size: 150px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+
+
+}
+h1 b{
+color: blue;
+text-align: left;
+font-size: 100px;
+font-style: oblique;
+}
+p{
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+    background-color: white;
+    text-transform: capitalize;
+
+}
+button{
+    background-color: yellow;
+    margin-left: 50px;
+    font-size: 15px;
+    
+    
+}
+a:hover{
+    color: black;
+    font-style: oblique;
+
+
+}
